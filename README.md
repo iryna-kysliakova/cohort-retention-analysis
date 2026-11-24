@@ -26,7 +26,7 @@
 
 - **[SQL (DBeaver,PostgreSQL)](https://github.com/iryna-kysliakova/cohort-retention-analysis/blob/main/user_retention_cohort.sql)** - дослідження даних, очищення та трансформація дат у різних форматах, об'єднання таблиць за допомогою JOIN, використання CTE, фільтрація та агрегація даних.
 
-- **Google Sheets** - побудова зведених і когортних таблиць, розрахунок Retention Rate, умовне форматування (кольорова шкала) та створення інтерактивного зрізу (Slicer) для фільтрації за джерелом залучення користувачів.
+- **[Google Sheets](https://docs.google.com/spreadsheets/d/1tAWWZXqemJWsfpXHrrbL3TJ9oqBc1DFwrzYVTiSwWsg/edit?usp=sharing)** - побудова зведених і когортних таблиць, розрахунок Retention Rate, умовне форматування (кольорова шкала) та створення інтерактивного зрізу (Slicer) для фільтрації за джерелом залучення користувачів.
 
  ## Результати 
 - Загальний Retention поступово знижується - з 60% у першому періоді до 7% у п'ятому.
