@@ -53,6 +53,7 @@
 
 ### Когортні таблиці
 #### Загальна когортна таблиця
+!(https://github.com/iryna-kysliakova/cohort-retention-analysis/blob/main/images/cohort-overall.png)
 
 
 
