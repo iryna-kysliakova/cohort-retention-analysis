@@ -51,16 +51,18 @@
 | Перший період | 70% | 45% |
 | П'ятий період | 11% | 1% |
 
-### Когортні таблиці
+## візуалізація результатів
 
-#### Загальна когортна таблиця
+### 1.Загальна когортна таблиця
 
 ![загальна когортна таблиця](https://github.com/iryna-kysliakova/cohort-retention-analysis/blob/main/images/cohort-overall.png)
 
-#### Когортна таблиця Organic
+### 2.Аналіз за каналами залучення
+
+**Organic**
 ![Organic](https://github.com/iryna-kysliakova/cohort-retention-analysis/blob/main/images/cohort-organic.png)
 
-### Когортна таблиця Promo
+**Promo**
 
 ![Promo](https://github.com/iryna-kysliakova/cohort-retention-analysis/blob/main/images/cohort-promo.png)
 
