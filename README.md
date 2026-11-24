@@ -53,7 +53,16 @@
 
 ### Когортні таблиці
 
+#### Загальна когортна таблиця
+
 ![загальна когортна таблиця](https://github.com/iryna-kysliakova/cohort-retention-analysis/blob/main/images/cohort-overall.png)
+
+#### Когортна таблиця Organic
+![Organic](https://github.com/iryna-kysliakova/cohort-retention-analysis/blob/main/images/cohort-organic.png)
+
+### Когортна таблиця Promo
+
+![Promo](https://github.com/iryna-kysliakova/cohort-retention-analysis/blob/main/images/cohort-promo.png)
 
 
 
