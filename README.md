@@ -52,8 +52,8 @@
 | П'ятий період | 11% | 1% |
 
 ### Когортні таблиці
-#### Загальна когортна таблиця
-!(https://github.com/iryna-kysliakova/cohort-retention-analysis/blob/main/images/cohort-overall.png)
+
+![загальна когортна таблиця](https://github.com/iryna-kysliakova/cohort-retention-analysis/blob/main/images/cohort-overall.png)
 
 
 
