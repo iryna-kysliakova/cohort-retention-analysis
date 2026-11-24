@@ -64,9 +64,11 @@ Organic демонструє вищий рівень утримання кори
 ### 2. Аналіз за каналами залучення
 
 **Organic**
+
 ![Organic](https://github.com/iryna-kysliakova/cohort-retention-analysis/blob/main/images/cohort-organic.png)
 
 **Promo**
+
 
 ![Promo](https://github.com/iryna-kysliakova/cohort-retention-analysis/blob/main/images/cohort-promo.png)
 
