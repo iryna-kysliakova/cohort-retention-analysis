@@ -52,6 +52,7 @@ Organic демонструє вищий рівень утримання кори
 | Перший період | 70% | 45% |
 | П'ятий період | 11% | 1% |
 
+
 ## Візуалізація результатів
 
 ### 1.Загальна когортна таблиця
@@ -66,8 +67,6 @@ Organic демонструє вищий рівень утримання кори
 **Promo**
 
 ![Promo](https://github.com/iryna-kysliakova/cohort-retention-analysis/blob/main/images/cohort-promo.png)
-
-
 
 
 
