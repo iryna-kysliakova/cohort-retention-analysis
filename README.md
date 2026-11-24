@@ -43,6 +43,7 @@
 | Четвертий | 17% |
 | П'ятий | 7% |
 
+
 #### **Порівняння Organic та Promo**
 
 Organic демонструє вищий рівень утримання користувачів порівняно з Promo.
@@ -53,13 +54,14 @@ Organic демонструє вищий рівень утримання кори
 | П'ятий період | 11% | 1% |
 
 
+
 ## Візуалізація результатів
 
-### 1.Загальна когортна таблиця
+### 1. Загальна когортна таблиця
 
 ![загальна когортна таблиця](https://github.com/iryna-kysliakova/cohort-retention-analysis/blob/main/images/cohort-overall.png)
 
-### 2.Аналіз за каналами залучення
+### 2. Аналіз за каналами залучення
 
 **Organic**
 ![Organic](https://github.com/iryna-kysliakova/cohort-retention-analysis/blob/main/images/cohort-organic.png)
