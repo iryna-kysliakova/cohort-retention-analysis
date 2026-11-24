@@ -86,7 +86,7 @@ Organic демонструє вищий рівень утримання кори
 - **[SQL-запити](https://github.com/iryna-kysliakova/cohort-retention-analysis/blob/main/sql/user_retention_cohort.sql)** - використані для підготовки та формування даних для когортного аналізу.
 - **[Google Sheets](https://docs.google.com/spreadsheets/d/1tAWWZXqemJWsfpXHrrbL3TJ9oqBc1DFwrzYVTiSwWsg/edit?usp=sharing)** - три аркуші:
      - data (підготовлені дані),
-     - cohort tables (когортна таблиці з абсолютними (кількість користувачів) та відносними ( Retention Rate) показниками),
+     - cohort tables (когортна таблиці з абсолютними (кількість користувачів) та відносними ( Retention Rate) показниками,
      - conclusions ( висновки та рекомендації).
 
 
