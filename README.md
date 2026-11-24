@@ -24,9 +24,9 @@
 
 ## Інструменти
 
-- **[SQL (DBeaver, PostgreSQL)](https://github.com/iryna-kysliakova/cohort-retention-analysis/blob/main/sql/user_retention_cohort.sql)** - дослідження даних, очищення та трансформація дат у різних форматах, об'єднання таблиць за допомогою JOIN, використання CTE, фільтрація та агрегація даних.
+- **SQL (DBeaver, PostgreSQL)** - дослідження даних, очищення та трансформація дат у різних форматах, об'єднання таблиць за допомогою JOIN, використання CTE, фільтрація та агрегація даних.
 
-- **[Google Sheets](https://docs.google.com/spreadsheets/d/1tAWWZXqemJWsfpXHrrbL3TJ9oqBc1DFwrzYVTiSwWsg/edit?usp=sharing)** - побудова зведених і когортних таблиць, розрахунок Retention Rate, умовне форматування (кольорова шкала) та створення інтерактивного зрізу (Slicer) для фільтрації за джерелом залучення користувачів.
+- **Google Sheets** - побудова зведених і когортних таблиць, розрахунок Retention Rate, умовне форматування (кольорова шкала) та створення інтерактивного зрізу (Slicer) для фільтрації за джерелом залучення користувачів.
 
 
 ## Результати
@@ -82,8 +82,8 @@ Organic демонструє вищий рівень утримання кори
 
 **Дослідити** поведінку користувачів Organic, зокрема березневої когорти з Retention 92% у другому періоді, щоб визначити можливі чинники високого утримання та використати ці знання для покращення взаємодії з іншими групами користувачів.
 
-## Матеріали проєкту
-- **[SQL-запити](https://github.com/iryna-kysliakova/cohort-retention-analysis/blob/main/user_retention_cohort.sql)** - використані для підготовки та формування даних для когортного аналізу.
+## Матеріали про[єкту
+- **[SQL-запити](https://github.com/iryna-kysliakova/cohort-retention-analysis/blob/main/sql/user_retention_cohort.sql)** - використані для підготовки та формування даних для когортного аналізу.
 - **[Google Sheets](https://docs.google.com/spreadsheets/d/1tAWWZXqemJWsfpXHrrbL3TJ9oqBc1DFwrzYVTiSwWsg/edit?usp=sharing)** - три аркуші:data (підготовлені дані), cohort tables (когортна таблиці з абсолютними (кількість користувачів) та відносними ( Retention Rate) показниками), conclusions ( висновки та рекомендації).
 
 
