@@ -28,7 +28,6 @@
 
 - **[Google Sheets](https://docs.google.com/spreadsheets/d/1tAWWZXqemJWsfpXHrrbL3TJ9oqBc1DFwrzYVTiSwWsg/edit?usp=sharing)** - побудова зведених і когортних таблиць, розрахунок Retention Rate, умовне форматування (кольорова шкала) та створення інтерактивного зрізу (Slicer) для фільтрації за джерелом залучення користувачів.
 
- ## Результати 
 
 ## Результати
 
