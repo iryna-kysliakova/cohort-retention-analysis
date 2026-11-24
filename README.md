@@ -63,11 +63,11 @@ Organic демонструє вищий рівень утримання кори
 
 ### 2. Аналіз за каналами залучення
 
--**Organic**
+- **Organic**
 
 ![Organic](https://github.com/iryna-kysliakova/cohort-retention-analysis/blob/main/images/cohort-organic.png)
 
--**Promo**
+- **Promo**
 
 
 ![Promo](https://github.com/iryna-kysliakova/cohort-retention-analysis/blob/main/images/cohort-promo.png)
@@ -83,8 +83,8 @@ Organic демонструє вищий рівень утримання кори
 **Дослідити** поведінку користувачів Organic, зокрема березневої когорти з Retention 92% у другому періоді, щоб визначити можливі чинники високого утримання та використати ці знання для покращення взаємодії з іншими групами користувачів.
 
 ## Матеріали проєкту
--**[SQL-запити](https://github.com/iryna-kysliakova/cohort-retention-analysis/blob/main/user_retention_cohort.sql)** - використані для підготовки та формування даних для когортного аналізу.
--**[Google Sheets](https://docs.google.com/spreadsheets/d/1tAWWZXqemJWsfpXHrrbL3TJ9oqBc1DFwrzYVTiSwWsg/edit?usp=sharing)** - три аркуші:data (підготовлені дані), cohort tables (когортна таблиці з абсолютними (кількість користувачів) та відносними ( Retention Rate) показниками), conclusions ( висновки та рекомендації).
+- **[SQL-запити](https://github.com/iryna-kysliakova/cohort-retention-analysis/blob/main/user_retention_cohort.sql)** - використані для підготовки та формування даних для когортного аналізу.
+- **[Google Sheets](https://docs.google.com/spreadsheets/d/1tAWWZXqemJWsfpXHrrbL3TJ9oqBc1DFwrzYVTiSwWsg/edit?usp=sharing)** - три аркуші:data (підготовлені дані), cohort tables (когортна таблиці з абсолютними (кількість користувачів) та відносними ( Retention Rate) показниками), conclusions ( висновки та рекомендації).
 
 
 
